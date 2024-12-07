@@ -1,0 +1,27 @@
+[[main]]
+    name = "About"
+    pageRef = "/about/"
+    weight = 10
+
+[[main]]
+    name = "Blog"
+    pageRef = "/blog/"
+    weight = 20
+
+[[main]]
+    name = "Projects"
+    pageRef = "/projects/"
+    weight = 30
+
+[[main]]
+    name = "Tags"
+    pageRef = "/tags/"
+    weight = 40
+
+[[main]]
+    name = "GitHub"
+    pre = "fab fa-github"
+    url = "https://github.com/Amronos/amronos.github.io"
+    weight = 50
+    [main.params]
+        icon = true

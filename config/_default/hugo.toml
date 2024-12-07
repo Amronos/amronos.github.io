@@ -1,0 +1,4 @@
+title = "Amronos - Website"
+copyright = "Copyright © 2024 Aarav Gupta."
+enableGitInfo = false
+timeout = "180s"
